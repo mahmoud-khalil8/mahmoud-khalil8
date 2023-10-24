@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Learning to code since 2021<br>📚 I'm currently learning nodejs streams<br>🎯 Goals: trying to be a polyglot programmer</p>
+<p align="left">✨ Learning to code since 2021<br>📚 I'm currently learning nodejs with socket.io<br>🎯 Goals: trying to be a polyglot programmer</p>
 
 ###
 
