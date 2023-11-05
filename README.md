@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Learning to code since 2021<br>📚 I'm currently learning react state management<br>🎯 Goals: trying to be a polyglot programmer</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
