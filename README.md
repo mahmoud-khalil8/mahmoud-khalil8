@@ -10,7 +10,7 @@
 
 ###
 ## <span style="color: blue !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=git,cpp,python,javascript,typescript,php,nestjs,nodejs,express,mongodb,mysql,nextjs,react,jest,postman,bash,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,cpp,python,javascript,typescript,php,nestjs,nodejs,express,postgres,mongodb,mysql,nextjs,react,tailwind,jest,postman,bash,&perline=12)](https://skillicons.dev)
 
 
 
