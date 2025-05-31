@@ -13,7 +13,7 @@ Fresh graduate backend engineer passionate about developing scalable application
 
 ###
 ## <span style="color: blue !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=git,cpp,cs,python,javascript,typescript,php,nestjs,nodejs,express,postgres,mongodb,mysql,nextjs,react,tailwind,bootstrap,jest,prisma,pug,postman,docker,git,bash,blender,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,cpp,cs,python,javascript,typescript,jquery,php,nestjs,nodejs,express,dotnet,postgres,mongodb,mysql,nextjs,react,angular,tailwind,bootstrap,jest,prisma,pug,postman,docker,git,bash,blender,&perline=12)](https://skillicons.dev)
 
 
 
